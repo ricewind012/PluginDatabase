@@ -106,3 +106,6 @@
 [submodule "plugins/recent-chats"]
 	path = plugins/recent-chats
 	url = https://github.com/Alex979/Steam-Recent-Chats-plugin
+[submodule "plugins/waterver6"]
+	path = plugins/waterver6
+	url = https://github.com/ricewind012/waterver6
